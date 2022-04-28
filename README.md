@@ -1,4 +1,4 @@
-# Flutter-# Flutter-Recipes-App-UI
+# Flutter-Recipes-App-UI
 
 A sample app to showcase Recipes App UI demo in flutter.
 
