@@ -1,0 +1,39 @@
+{
+    "drinks":[
+        {
+            "name" : "Straberry Daiquiri",
+            "sub_name" : "Slushy, with a sour kick",
+            "time": "10 minutes",
+            "like": "804",
+            "image": "assets/images/strawberry.jpg"
+        },
+        {
+            "name" : "Mojito",
+            "sub_name" : "Tastes like summer",
+            "time": "10 minutes",
+            "like": "1196",
+            "image": "assets/images/mojito.jpg"
+        },
+        {
+            "name" : "Corda da Amarelo",
+            "sub_name" : "A sweet and sour cocktail",
+            "time": "10 minutes",
+            "like": "250",
+            "image": "assets/images/colada.png"
+        },
+        {
+            "name" : "Kivi Pina Colada",
+            "sub_name" : "Nothing like a good Kivi Pina Colada",
+            "time": "10 minutes",
+            "like": "1340",
+            "image": "assets/images/Kivi.jpg"
+        },
+        {
+            "name" : "Long Island Iced Tea",
+            "sub_name" : "A refreshing drink",
+            "time": "10 minutes",
+            "like": "2340",
+            "image": "assets/images/long.jpg"
+        }
+    ]
+}
